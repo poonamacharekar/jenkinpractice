@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-29T17:58:06 GMT-12:00" name="Default suite" finished-at="2021-03-29T17:58:07 GMT-12:00" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2021-03-29T17:58:06 GMT-12:00" name="Default test" finished-at="2021-03-29T17:58:07 GMT-12:00" duration-ms="116">
+      <class name="jenkinpractice.jenkinTest">
+        <test-method signature="jenkinpractice()[pri:0, instance:jenkinpractice.jenkinTest@66498326]" started-at="2021-03-29T17:58:07 GMT-12:00" name="jenkinpractice" finished-at="2021-03-29T17:58:07 GMT-12:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinpractice -->
+      </class> <!-- jenkinpractice.jenkinTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
