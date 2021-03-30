@@ -2,7 +2,7 @@ package jenkinpractice;
 
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class jenkinTest {
 	
 @Test
 	public void jenkinpractice() {
